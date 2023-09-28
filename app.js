@@ -8,3 +8,6 @@ Al finalizar este punto, ambos deberían tener 7 archivos: el README.md y los 3 
 creados por cada uno.
 */
 console.log(" hola amiga");
+console.log("Bien, aca andamos")
+console.log("Escribiendo un rato para la tarea del dia")
+console.log("Vos que haces?")
